@@ -1,0 +1,17 @@
+{
+  "name": "01-exercise-js-conditionals",
+  "author": "Developers Institute",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.3.0"
+  }
+}
